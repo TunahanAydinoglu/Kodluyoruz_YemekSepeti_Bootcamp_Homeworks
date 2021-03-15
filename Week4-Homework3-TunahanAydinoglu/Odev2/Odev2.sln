@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev2.Service", "Odev2.Service\Odev2.Service.csproj", "{9AF5D847-9F05-4D16-870D-DB9592FDEAE4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev2.API", "Odev2.API\Odev2.API.csproj", "{CABD3521-A114-4B9A-BC50-CC57B05E27BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AF5D847-9F05-4D16-870D-DB9592FDEAE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF5D847-9F05-4D16-870D-DB9592FDEAE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF5D847-9F05-4D16-870D-DB9592FDEAE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF5D847-9F05-4D16-870D-DB9592FDEAE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CABD3521-A114-4B9A-BC50-CC57B05E27BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CABD3521-A114-4B9A-BC50-CC57B05E27BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CABD3521-A114-4B9A-BC50-CC57B05E27BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CABD3521-A114-4B9A-BC50-CC57B05E27BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B874FE66-AF13-4594-89F4-972C2D1CA9EE}
+	EndGlobalSection
+EndGlobal

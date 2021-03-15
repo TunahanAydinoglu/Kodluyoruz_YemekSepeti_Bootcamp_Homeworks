@@ -1,0 +1,9 @@
+.form-add-todo{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+}
+.btn-success{
+    height: 40px;
+}
